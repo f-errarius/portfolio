@@ -1,2 +1,3 @@
-# curriculum
-Flavio H⋅F curriculum vitae and current projects.
+# Curriculum Vitae
+
+> Flavio H⋅F curriculum vitae and current projects.
